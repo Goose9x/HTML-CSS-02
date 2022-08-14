@@ -1,0 +1,318 @@
+/* Bai 1
+*{
+    font-family: 'Roboto', sans-serif;
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    color:rgb(5, 5, 5);
+}
+.border-container{
+    width: 969px;
+    height: 514px;
+    border: 5px;
+    padding: 5px;
+}
+
+.mini-border{
+    width: 927px;
+    height: 312px;
+    border: 15px;
+    padding: 15px;
+    margin: 15px; 
+    border-left: 10px solid #DFCD51;
+    background-color:rgb(254, 250, 238)
+}
+
+.border-container h2{
+    color: blue;
+} */
+
+/* Bai 2
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    color:rgb(5, 5, 5);
+}
+
+.khung-to {
+    width: 1080px;
+    height: 513px;
+    border: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.khung-xanh {
+    width: 1029px;
+    height: 70px;
+    margin-top: 20px;
+    border: 5px solid #057304;
+}
+.khung-to .khung-xanh .ra-giua{
+    text-align: center;
+    line-height: 60px;
+    font-size: 20px;
+}
+.khung-to .red1{
+    background-color: #F7F5F1;
+    color: red;
+}
+.red {
+    color: red;
+}
+.khung-to .example{
+    width: 1073px;
+    height: 270px;
+    background-color: #E5E8ED;
+    border-radius: 5px;
+    padding: 20px;
+
+}
+
+.khung-to .example .center{
+    width: 1073px;
+    height: 115px;
+    padding: 10px;
+    margin: 20px;
+    border-left: 5px solid green;
+    background-color:white;
+}
+
+.khung-to .example .abc {
+    font-size: larger;
+    border-radius: 5px;
+    
+} */
+
+/* Bài 3
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    color:rgb(5, 5, 5);
+}
+
+.khung {
+    width: 500px;
+    height: 500px;
+    padding: 5px;
+    border: 5px solid black;
+}
+.khung img{
+    width: 100%;
+} */
+
+/* Bài 4 
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.khung {
+    width: 296px;
+    height: 600px;
+    padding: 5px;
+}
+.khung img{
+    width: 100%;
+}
+
+.khung .abc{
+    margin-top: 0;
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+.font{
+    text-decoration: none;
+    color: blue;    
+} */
+
+
+/* Bài 5 */
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.khung {
+    width: 1300px;
+    height: 438px;
+    margin: 20px;
+}
+
+
+.khung .khung1{
+    text-align: center;
+    background-color: #F7F7F7;
+    width: 100%;
+    height: 70px;
+    line-height: 70px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border: 2px solid #E6E6E6;
+}
+
+.khung .khung2{
+    text-align: center; 
+    height: 210px;
+    border: 2px solid #E6E6E6;
+    line-height: 70px;
+}
+
+.khung .khung3{
+    text-align: center;
+    background-color: #F7F7F7;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 2px solid #E6E6E6;
+    width: 100%;
+    height: 70px;
+    line-height: 70px;
+    color: #707173;
+    font-size: 20px;
+}
+
+.khung .button {
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    background-color: #0D6EF9;
+    border-radius: 10px;
+
+} */
+
+
+/* Tét bài 7
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.khung {
+    padding: 30px;
+    width: 700px;
+    height: 266px;
+}
+.khung .modal{
+    width: 100%;
+    height: 60px;
+    border: 1px solid #E7E7E7;
+    line-height: 60px;
+    padding-left: 20px;
+    border-top-left-radius:10px ;
+    border-top-right-radius:10px ;
+}
+.khung .test{
+    text-align: right;
+    position: absolute;
+    right: 1268px;
+    color: #898989;
+}
+
+.khung .show{
+    width: 100%;
+    padding-left: 20px;
+    height: 30px;
+    border: 1px solid #E7E7E7;
+    line-height: 30px;
+}
+
+.khung .open{
+    width: 100%;
+    height: 60px;
+    border: 1px solid #E7E7E7;
+    line-height: 60px;
+    text-align: right;
+    padding-right: 20px;
+    border-bottom-left-radius:10px ;
+    border-bottom-right-radius:10px ;
+}
+.khung .button{
+    line-height: 30px;
+    color: white;
+    background-color:#0B74F8 ;
+    font-size: 15px;
+    border-radius: 10px;
+    width: 200px;
+    border: 0px ;
+} */
+
+
+/* Bai8: HTML only */
+
+
+/* Bai 10 */
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.khungTo {
+    margin: 20px;
+    width: 444px;
+    height: 763px;
+    border-top-left-radius: 222px;
+    border-top-right-radius: 222px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border: 3px solid #EBE9E9;
+}
+
+.khungTo .khungDo {
+    width: 394px;
+    height: 419px;
+    background-color: #BB232C;
+    border-top-left-radius: 197px;
+    border-top-right-radius: 197px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin: 20px 20px;
+
+}
+h3,p {
+    padding-left: 20px
+}
+
+img {
+    width: 100%;
+    height: 420px;
+} */
+
+
+
+/* Bai 11: */
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.khung {
+    width: 300px;
+    height: 392px;
+}
+
+.khung .khung1 {
+    width: 260px;
+    height: 260px;
+    border-radius: 130px;
+    border: 2px solid #E8E6E6;
+    box-shadow: 2px;
+    margin: 20px;
+}
+img {
+    width: 240px;
+    height: 243px;
+    border-radius: 120px;
+    margin: 7px;
+}
+h4 {
+    color: #B3B3B3;   
+    text-align: center;
+}
+h3 {
+    text-align: center ;
+} */
